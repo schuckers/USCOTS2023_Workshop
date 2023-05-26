@@ -4,8 +4,9 @@ title: "USCOTS2023 Workshop"
 
 ## USCOTS 2023 Workshop
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+830  	Welcome and Introductions
+845 	Score Network Overview  
+915 	Example SCORE module 
 
-```{r}
-1 + 1
-```
+
+
