@@ -1,5 +1,5 @@
 ---
-title: "USCOTS2023_Workshop"
+title: "USCOTS2023 Workshop"
 ---
 
 ## USCOTS 2023 Workshop
