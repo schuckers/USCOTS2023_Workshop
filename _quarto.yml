@@ -1,5 +1,16 @@
 project:
-  title: "USCOTS2023_Workshop"
+  type: website
 
-editor: visual
+website:
+  title: "USCOTS 2023"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
 
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
