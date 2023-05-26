@@ -4,11 +4,13 @@ title: "USCOTS2023 Workshop"
 
 ## USCOTS 2023 Workshop
 
-830  	Welcome and Introductions
+* 830  	Welcome and Introductions
 
-845 	Score Network Overview  
+* 845 	Score Network Overview  
 
-915 	Example SCORE module 
+* 915 	Example SCORE module 
+
+
 
 
 
