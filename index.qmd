@@ -21,7 +21,7 @@ title: "USCOTS2023 Workshop"
   [Stolen Bases](https://isle.stat.cmu.edu/SCORE/stolen-bases-module/)
 
 
-* 1000  <Coffee Break>
+* 1000  _Coffee Break_
 
 * 1030 	Module Planning
 
@@ -31,7 +31,7 @@ title: "USCOTS2023 Workshop"
 
 * 1115  Module Brainstorming
 
-* 1200  <Lunch provided>
+* 1200  _Lunch provided_
 
 * 1300  Discussion Modules
 
@@ -39,7 +39,7 @@ title: "USCOTS2023 Workshop"
 
 * 1400  Review of Modules
 
-* 1430  <Coffee Break>
+* 1430  _Coffee Break_
 
 * 1500  Discussion of Review Process
 
