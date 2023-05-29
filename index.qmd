@@ -2,15 +2,21 @@
 title: "USCOTS2023 Workshop"
 ---
 
-## USCOTS 2023 Workshop
+## USCOTS 2023 Workshop Schedule
 
 * 830  	Welcome and Introductions
 
 * 845 	Score Network Overview  
 
-* 915 	Example SCORE module 
+* 915 	Example SCORE modules
+[Triathlon](https://isle.stat.cmu.edu/SCORE/ironman_triathlon/)
+[Records](https://isle.stat.cmu.edu/SCORE/Unbreakable_Records_Baseball_Hits/)
+[Marathons](https://isle.stat.cmu.edu/SCORE/Marathons_SCORE_Template/)
+[Hockey Regression](https://isle.stat.cmu.edu/SCORE/NHLShots/)
+[Stolen Bases](https://isle.stat.cmu.edu/SCORE/stolen-bases-module/)
 
-* 1000  Coffee Break
+
+* 1000  <Coffee Break>
 
 * 1030 	Module Planning
 
@@ -20,11 +26,23 @@ title: "USCOTS2023 Workshop"
 
 * 1115  Module Brainstorming
 
-* 1200  Lunch provided
+* 1200  <Lunch provided>
 
-* 1300  
+* 1300  Discussion Modules
 
+* 1330  Module Submission Process
 
+* 1400  Review of Modules
+
+* 1430  <Coffee Break>
+
+* 1500  Discussion of Review Process
+
+* 1530  Module Work Time
+
+* 1600  Script and Video discussion
+
+* 1620  Wrap-Up and Evaluation
 
 
 
