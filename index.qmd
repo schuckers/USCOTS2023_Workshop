@@ -10,15 +10,15 @@ title: "USCOTS2023 Workshop"
 
 * 915 	Example SCORE modules
 
-  [Triathlon](https://isle.stat.cmu.edu/SCORE/ironman_triathlon/)
+  Module [Triathlon](https://isle.stat.cmu.edu/SCORE/ironman_triathlon/)
 
-  [Records](https://isle.stat.cmu.edu/SCORE/Unbreakable_Records_Baseball_Hits/)
+  Module [Records](https://isle.stat.cmu.edu/SCORE/Unbreakable_Records_Baseball_Hits/)
 
-  [Marathons](https://isle.stat.cmu.edu/SCORE/Marathons_SCORE_Template/)
+  Module [Marathons](https://isle.stat.cmu.edu/SCORE/Marathons_SCORE_Template/)
   
-  [Hockey Regression](https://isle.stat.cmu.edu/SCORE/NHLShots/)
+  Module [Hockey Regression](https://isle.stat.cmu.edu/SCORE/NHLShots/)
   
-  [Stolen Bases](https://isle.stat.cmu.edu/SCORE/stolen-bases-module/)
+  Module [Stolen Bases](https://isle.stat.cmu.edu/SCORE/stolen-bases-module/)
 
 
 * 1000  _Coffee Break_
@@ -43,13 +43,13 @@ title: "USCOTS2023 Workshop"
   
   [Pedagogical Review Form ](https://forms.gle/yFux4dEkUQstSMfa7)
   
-  [PGA Correlations ](https://isle.stat.cmu.edu/SCORE/PGA_drive_putt)
+  Module [PGA Correlations ](https://isle.stat.cmu.edu/SCORE/PGA_drive_putt)
   
-  [Lacrosse](https://isle.stat.cmu.edu/SCORE/lacrosse_nll_vs_pll)
+  Module [Lacrosse](https://isle.stat.cmu.edu/SCORE/lacrosse_nll_vs_pll)
   
-  [League of Legends](https://isle.stat.cmu.edu/SCORE/league_of_legends/)
+  Module [League of Legends](https://isle.stat.cmu.edu/SCORE/league_of_legends/)
 
-  [Softball](https://isle.stat.cmu.edu/SCORE/softball_merging_tables/)
+  Module [Softball](https://isle.stat.cmu.edu/SCORE/softball_merging_tables/)
 
 
 * 1430  _Coffee Break_
