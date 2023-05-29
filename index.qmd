@@ -9,8 +9,11 @@ title: "USCOTS2023 Workshop"
 * 845 	Score Network Overview  
 
 * 915 	Example SCORE modules
-[Triathlon](https://isle.stat.cmu.edu/SCORE/ironman_triathlon/)
-[Records](https://isle.stat.cmu.edu/SCORE/Unbreakable_Records_Baseball_Hits/)
+
+-  [Triathlon](https://isle.stat.cmu.edu/SCORE/ironman_triathlon/)
+
+-  [Records](https://isle.stat.cmu.edu/SCORE/Unbreakable_Records_Baseball_Hits/)
+
 [Marathons](https://isle.stat.cmu.edu/SCORE/Marathons_SCORE_Template/)
 [Hockey Regression](https://isle.stat.cmu.edu/SCORE/NHLShots/)
 [Stolen Bases](https://isle.stat.cmu.edu/SCORE/stolen-bases-module/)
