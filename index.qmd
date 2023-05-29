@@ -12,13 +12,13 @@ title: "USCOTS2023 Workshop"
 
   Module [Triathlon](https://isle.stat.cmu.edu/SCORE/ironman_triathlon/){target="_blank"}
 
-  Module [Records](https://isle.stat.cmu.edu/SCORE/Unbreakable_Records_Baseball_Hits/)
+  Module [Records](https://isle.stat.cmu.edu/SCORE/Unbreakable_Records_Baseball_Hits/){target="_blank"}
 
-  Module [Marathons](https://isle.stat.cmu.edu/SCORE/Marathons_SCORE_Template/)
+  Module [Marathons](https://isle.stat.cmu.edu/SCORE/Marathons_SCORE_Template/){target="_blank"}
   
-  Module [Hockey Regression](https://isle.stat.cmu.edu/SCORE/NHLShots/)
+  Module [Hockey Regression](https://isle.stat.cmu.edu/SCORE/NHLShots/){target="_blank"}
   
-  Module [Stolen Bases](https://isle.stat.cmu.edu/SCORE/stolen-bases-module/)
+  Module [Stolen Bases](https://isle.stat.cmu.edu/SCORE/stolen-bases-module/){target="_blank"}
 
 
 * 1000  _Coffee Break_
@@ -37,19 +37,19 @@ title: "USCOTS2023 Workshop"
 
 * 1330  Module Submission Process
   
-  [Module Submission Form](https://docs.google.com/forms/d/e/1FAIpQLScvIGzM_Q66D1XHApMPY8Cfq3TRCT7MfQsbg6rUM8sO8jKNeg/viewform)
+  [Module Submission Form](https://docs.google.com/forms/d/e/1FAIpQLScvIGzM_Q66D1XHApMPY8Cfq3TRCT7MfQsbg6rUM8sO8jKNeg/viewform){target="_blank"}
 
 * 1400  Review of Modules
   
-  [Pedagogical Review Form ](https://forms.gle/yFux4dEkUQstSMfa7)
+  [Pedagogical Review Form ](https://forms.gle/yFux4dEkUQstSMfa7){target="_blank"}
   
-  Module [PGA Correlations ](https://isle.stat.cmu.edu/SCORE/PGA_drive_putt)
+  Module [PGA Correlations ](https://isle.stat.cmu.edu/SCORE/PGA_drive_putt){target="_blank"}
   
-  Module [Lacrosse](https://isle.stat.cmu.edu/SCORE/lacrosse_nll_vs_pll)
+  Module [Lacrosse](https://isle.stat.cmu.edu/SCORE/lacrosse_nll_vs_pll){target="_blank"}
   
-  Module [League of Legends](https://isle.stat.cmu.edu/SCORE/league_of_legends/)
+  Module [League of Legends](https://isle.stat.cmu.edu/SCORE/league_of_legends/){target="_blank"}
 
-  Module [Softball](https://isle.stat.cmu.edu/SCORE/softball_merging_tables/)
+  Module [Softball](https://isle.stat.cmu.edu/SCORE/softball_merging_tables/){target="_blank"}
 
 
 * 1430  _Coffee Break_
