@@ -36,8 +36,21 @@ title: "USCOTS2023 Workshop"
 * 1300  Discussion Modules
 
 * 1330  Module Submission Process
+  
+  [Module Submission Form](https://docs.google.com/forms/d/e/1FAIpQLScvIGzM_Q66D1XHApMPY8Cfq3TRCT7MfQsbg6rUM8sO8jKNeg/viewform)
 
 * 1400  Review of Modules
+  
+  [Pedagogical Review Form ](https://forms.gle/yFux4dEkUQstSMfa7)
+  
+  [PGA Correlations ](https://isle.stat.cmu.edu/SCORE/PGA_drive_putt)
+  
+  [Lacrosse](https://isle.stat.cmu.edu/SCORE/lacrosse_nll_vs_pll)
+  
+  [League of Legends](https://isle.stat.cmu.edu/SCORE/league_of_legends/)
+
+  [Softball](https://isle.stat.cmu.edu/SCORE/softball_merging_tables/)
+
 
 * 1430  _Coffee Break_
 
