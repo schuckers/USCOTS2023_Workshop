@@ -10,6 +10,12 @@ title: "USCOTS2023 Workshop"
 
 * 915 	Example SCORE module 
 
+* 1000  Coffee Break
+
+* 1030 	Module Planning
+
+* 1045  Module Content Creation 
+
 
 
 
