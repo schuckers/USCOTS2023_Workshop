@@ -47,13 +47,13 @@ title: "USCOTS2023 Workshop"
   
   [Pedagogical Review Form ](https://forms.gle/yFux4dEkUQstSMfa7){target="_blank"}
   
-  Module [PGA Correlations ](https://isle.stat.cmu.edu/SCORE/PGA_drive_putt){target="_blank"}
+  Module [PGA Putt for Dough ](https://isle.stat.cmu.edu/SCORE/PGA_drive_putt){target="_blank"}
   
-  Module [Lacrosse](https://isle.stat.cmu.edu/SCORE/lacrosse_nll_vs_pll){target="_blank"}
+  Module [Lacrosse PLL v. NLL](https://isle.stat.cmu.edu/SCORE/lacrosse_nll_vs_pll){target="_blank"}
   
-  Module [League of Legends](https://isle.stat.cmu.edu/SCORE/league_of_legends/){target="_blank"}
+  Module [League of Legends, Buffing and Nerfing](https://isle.stat.cmu.edu/SCORE/league_of_legends/){target="_blank"}
 
-  Module [Softball](https://isle.stat.cmu.edu/SCORE/softball_merging_tables/){target="_blank"}
+  Module [Softball Join and Merge](https://isle.stat.cmu.edu/SCORE/softball_merging_tables/){target="_blank"}
 
 
 * 1430  _Coffee Break_
