@@ -6,6 +6,8 @@ title: "USCOTS2023 Workshop"
 
 [SCORE Network website](https://scorenetwork.org/){target="_blank"}
 
+[Workshop Slides]()
+
 * 830  	Welcome and Introductions
 
 * 845 	Score Network Overview  
