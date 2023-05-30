@@ -68,5 +68,6 @@ title: "USCOTS2023 Workshop"
 
 * 1620  Wrap-Up and Evaluation
 
+  [Workshop Evaluation Form](https://baylor.qualtrics.com/jfe/form/SV_1AgGyvqeUAmqpIG){target="_blank"}
 
 
