@@ -29,7 +29,7 @@ title: "USCOTS2023 Workshop"
 
 * 1045  Module Content Creation 
 
-  [Module Author Handbook](https://docs.google.com/document/d/1Gsu3xy26gNeXPMGAGb9EpLi6D77mCoif01lMYqkHqEg/edit?usp=share_link){target="_blank"}
+  [Module Author Handbook](https://drive.google.com/file/d/1bCYSqy1sr-ppDtOJno9XdWho38QfcFl8/view?usp=share_link){target="_blank"}
 
 * 1100  Sports Data and Modules in Progress
 
