@@ -8,6 +8,8 @@ title: "USCOTS2023 Workshop"
 
 * 845 	Score Network Overview  
 
+[SCORE Network website](https://scorenetwork.org/){target="_blank"}
+
 * 915 	Example SCORE modules
 
   Module [Triathlon](https://isle.stat.cmu.edu/SCORE/ironman_triathlon/){target="_blank"}
@@ -26,6 +28,8 @@ title: "USCOTS2023 Workshop"
 * 1030 	Module Planning
 
 * 1045  Module Content Creation 
+
+  [Module Author Handbook](https://docs.google.com/document/d/1Gsu3xy26gNeXPMGAGb9EpLi6D77mCoif01lMYqkHqEg/edit?usp=share_link){target="_blank"}
 
 * 1100  Sports Data and Modules in Progress
 
